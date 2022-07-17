@@ -1,5 +1,5 @@
 # SmartCamera-app
-This project is my last undergraduate project which is implemented with react native language that manages and controls the mentioned camera.
+#This project is my last undergraduate project which is implemented with react native language that manages and controls the mentioned camera.
 you can demo the app in the link below (with expo) :
 https://expo.dev/@parsakazemi/smarthome-v2
 The project presentation score was 19.25 out of 20, which was evaluated along with the presentation, poster, device document and device application.
