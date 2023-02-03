@@ -1,0 +1,4 @@
+1. npm install expo-cli --global
+2. expo init name-of-project
+3.cd name-of-project
+4.expo start | npm start
